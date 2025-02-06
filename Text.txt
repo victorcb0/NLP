@@ -1,0 +1,16 @@
+Alex se așază la birou și deschide o carte veche. Citește paginile cu atenție, încercând să înțeleagă sensul fiecărui cuvânt. Cartea este plină de note scrise pe margine, care îi atrag atenția. Unele pasaje îi par greu de descifrat, dar el continuă cu răbdare. La final, închide cartea și rămâne gânditor, admirând coperțile uzate și paginile îngălbenite.
+
+Alex se așază la birou și deschide o carte veche.
+Subs Pron Verb Prep Subs Conj Verb Art Subs Adj
+
+Citește paginile cu atenție, încercând să înțeleagă sensul fiecărui cuvânt.
+Verb Subs Prep Subs, Verb Conj Verb Subs Pron Subs
+
+Cartea este plină de note scrise pe margine, care îi atrag atenția.
+Subs Verb Adj Prep Subs Adj Prep Subs, Conj Pron Verb Subs
+
+Unele pasaje îi par greu de descifrat, dar el continuă cu răbdare.
+Pron Subs Pron Verb Adv Prep Verb(Supin), Conj Pron Verb Prep Subs
+
+La final, închide cartea și rămâne gânditor, admirând coperțile uzate și paginile îngălbenite.
+Prep Subs, Verb Subs Conj Verb Adv, Verb Subs Adj Conj Subs Adj

@@ -1,0 +1,325 @@
+
+
+  prop=    [alex,se,asaza,la,birou,si,deschide,o,carte,veche,.,citeste,paginile,cu,atentie,incercand,sa,inteleaga,sensul,fiecarui,cuvant,.,cartea,este,plina,de,note,scrise,pe,margine,care,ii,atrag,atentia,.,unele,pasaje,ii,par,greu,de,descifrat,dar,el,continua,cu,rabdare,.,la,final,inchide,cartea,si,ramane,ganditor,admirand,copertile,uzate,si,paginile,ingalbenite,.,.]
+Adding to agenda: <-> item(n(n(alex)),0,1,[n(n(alex)),alex]) 
+Adding to agenda: <-> item(pron(pron(se)),1,2,[pron(pron(se)),se]) 
+Adding to agenda: <-> item(v(v(asaza)),2,3,[v(v(asaza)),asaza]) 
+Adding to agenda: <-> item(prep(prep(la)),3,4,[prep(prep(la)),la]) 
+Adding to agenda: <-> item(n(n(birou)),4,5,[n(n(birou)),birou]) 
+Adding to agenda: <-> item(conj(conj(si)),5,6,[conj(conj(si)),si]) 
+Adding to agenda: <-> item(v(v(deschide)),6,7,[v(v(deschide)),deschide]) 
+Adding to agenda: <-> item(art(art(o)),7,8,[art(art(o)),o]) 
+Adding to agenda: <-> item(n(n(carte)),8,9,[n(n(carte)),carte]) 
+Adding to agenda: <-> item(adj(adj(veche)),9,10,[adj(adj(veche)),veche]) 
+Adding to agenda: <-> item(point(point(.)),10,11,[point(point(.)),.]) 
+Adding to agenda: <-> item(v(v(citeste)),11,12,[v(v(citeste)),citeste]) 
+Adding to agenda: <-> item(n(n(paginile)),12,13,[n(n(paginile)),paginile]) 
+Adding to agenda: <-> item(prep(prep(cu)),13,14,[prep(prep(cu)),cu]) 
+Adding to agenda: <-> item(n(n(atentie)),14,15,[n(n(atentie)),atentie]) 
+Adding to agenda: <-> item(v(v(incercand)),15,16,[v(v(incercand)),incercand]) 
+Adding to agenda: <-> item(conj(conj(sa)),16,17,[conj(conj(sa)),sa]) 
+Adding to agenda: <-> item(v(v(inteleaga)),17,18,[v(v(inteleaga)),inteleaga]) 
+Adding to agenda: <-> item(n(n(sensul)),18,19,[n(n(sensul)),sensul]) 
+Adding to agenda: <-> item(pron(pron(fiecarui)),19,20,[pron(pron(fiecarui)),fiecarui]) 
+Adding to agenda: <-> item(n(n(cuvant)),20,21,[n(n(cuvant)),cuvant]) 
+Adding to agenda: <-> item(point(point(.)),21,22,[point(point(.)),.]) 
+Adding to agenda: <-> item(n(n(cartea)),22,23,[n(n(cartea)),cartea]) 
+Adding to agenda: <-> item(v(v(este)),23,24,[v(v(este)),este]) 
+Adding to agenda: <-> item(adj(adj(plina)),24,25,[adj(adj(plina)),plina]) 
+Adding to agenda: <-> item(prep(prep(de)),25,26,[prep(prep(de)),de]) 
+Adding to agenda: <-> item(n(n(note)),26,27,[n(n(note)),note]) 
+Adding to agenda: <-> item(adj(adj(scrise)),27,28,[adj(adj(scrise)),scrise]) 
+Adding to agenda: <-> item(prep(prep(pe)),28,29,[prep(prep(pe)),pe]) 
+Adding to agenda: <-> item(n(n(margine)),29,30,[n(n(margine)),margine]) 
+Adding to agenda: <-> item(conj(conj(care)),30,31,[conj(conj(care)),care]) 
+Adding to agenda: <-> item(pron(pron(ii)),31,32,[pron(pron(ii)),ii]) 
+Adding to agenda: <-> item(v(v(atrag)),32,33,[v(v(atrag)),atrag]) 
+Adding to agenda: <-> item(n(n(atentia)),33,34,[n(n(atentia)),atentia]) 
+Adding to agenda: <-> item(point(point(.)),34,35,[point(point(.)),.]) 
+Adding to agenda: <-> item(pron(pron(unele)),35,36,[pron(pron(unele)),unele]) 
+Adding to agenda: <-> item(n(n(pasaje)),36,37,[n(n(pasaje)),pasaje]) 
+Adding to agenda: <-> item(pron(pron(ii)),37,38,[pron(pron(ii)),ii]) 
+Adding to agenda: <-> item(v(v(par)),38,39,[v(v(par)),par]) 
+Adding to agenda: <-> item(adv(adv(greu)),39,40,[adv(adv(greu)),greu]) 
+Adding to agenda: <-> item(prep(prep(de)),40,41,[prep(prep(de)),de]) 
+Adding to agenda: <-> item(v(v(descifrat)),41,42,[v(v(descifrat)),descifrat]) 
+Adding to agenda: <-> item(conj(conj(dar)),42,43,[conj(conj(dar)),dar]) 
+Adding to agenda: <-> item(pron(pron(el)),43,44,[pron(pron(el)),el]) 
+Adding to agenda: <-> item(v(v(continua)),44,45,[v(v(continua)),continua]) 
+Adding to agenda: <-> item(prep(prep(cu)),45,46,[prep(prep(cu)),cu]) 
+Adding to agenda: <-> item(n(n(rabdare)),46,47,[n(n(rabdare)),rabdare]) 
+Adding to agenda: <-> item(point(point(.)),47,48,[point(point(.)),.]) 
+Adding to agenda: <-> item(prep(prep(la)),48,49,[prep(prep(la)),la]) 
+Adding to agenda: <-> item(n(n(final)),49,50,[n(n(final)),final]) 
+Adding to agenda: <-> item(adv(adv(final)),49,50,[adv(adv(final)),final]) 
+Adding to agenda: <-> item(v(v(inchide)),50,51,[v(v(inchide)),inchide]) 
+Adding to agenda: <-> item(n(n(cartea)),51,52,[n(n(cartea)),cartea]) 
+Adding to agenda: <-> item(conj(conj(si)),52,53,[conj(conj(si)),si]) 
+Adding to agenda: <-> item(v(v(ramane)),53,54,[v(v(ramane)),ramane]) 
+Adding to agenda: <-> item(adv(adv(ganditor)),54,55,[adv(adv(ganditor)),ganditor]) 
+Adding to agenda: <-> item(v(v(admirand)),55,56,[v(v(admirand)),admirand]) 
+Adding to agenda: <-> item(n(n(copertile)),56,57,[n(n(copertile)),copertile]) 
+Adding to agenda: <-> item(adj(adj(uzate)),57,58,[adj(adj(uzate)),uzate]) 
+Adding to agenda: <-> item(conj(conj(si)),58,59,[conj(conj(si)),si]) 
+Adding to agenda: <-> item(n(n(paginile)),59,60,[n(n(paginile)),paginile]) 
+Adding to agenda: <-> item(adj(adj(ingalbenite)),60,61,[adj(adj(ingalbenite)),ingalbenite]) 
+Adding to agenda: <-> item(point(point(.)),61,62,[point(point(.)),.]) 
+Adding to chart: <i> item(n(n(alex)),0,1,[n(n(alex)),alex]) 
+Adding to chart: <i> item(pron(pron(se)),1,2,[pron(pron(se)),se]) 
+Adding to chart: <i> item(v(v(asaza)),2,3,[v(v(asaza)),asaza]) 
+Adding to chart: <i> item(prep(prep(la)),3,4,[prep(prep(la)),la]) 
+Adding to chart: <i> item(n(n(birou)),4,5,[n(n(birou)),birou]) 
+Adding to chart: <i> item(conj(conj(si)),5,6,[conj(conj(si)),si]) 
+Adding to chart: <i> item(v(v(deschide)),6,7,[v(v(deschide)),deschide]) 
+Adding to chart: <i> item(art(art(o)),7,8,[art(art(o)),o]) 
+Adding to chart: <i> item(n(n(carte)),8,9,[n(n(carte)),carte]) 
+Adding to chart: <i> item(adj(adj(veche)),9,10,[adj(adj(veche)),veche]) 
+Adding to chart: <i> item(point(point(.)),10,11,[point(point(.)),.]) 
+Adding to chart: <i> item(v(v(citeste)),11,12,[v(v(citeste)),citeste]) 
+Adding to chart: <i> item(n(n(paginile)),12,13,[n(n(paginile)),paginile]) 
+Adding to chart: <i> item(prep(prep(cu)),13,14,[prep(prep(cu)),cu]) 
+Adding to chart: <i> item(n(n(atentie)),14,15,[n(n(atentie)),atentie]) 
+Adding to chart: <i> item(v(v(incercand)),15,16,[v(v(incercand)),incercand]) 
+Adding to chart: <i> item(conj(conj(sa)),16,17,[conj(conj(sa)),sa]) 
+Adding to chart: <i> item(v(v(inteleaga)),17,18,[v(v(inteleaga)),inteleaga]) 
+Adding to chart: <i> item(n(n(sensul)),18,19,[n(n(sensul)),sensul]) 
+Adding to chart: <i> item(pron(pron(fiecarui)),19,20,[pron(pron(fiecarui)),fiecarui]) 
+Adding to chart: <i> item(n(n(cuvant)),20,21,[n(n(cuvant)),cuvant]) 
+Adding to chart: <i> item(point(point(.)),21,22,[point(point(.)),.]) 
+Adding to chart: <i> item(n(n(cartea)),22,23,[n(n(cartea)),cartea]) 
+Adding to chart: <i> item(v(v(este)),23,24,[v(v(este)),este]) 
+Adding to chart: <i> item(adj(adj(plina)),24,25,[adj(adj(plina)),plina]) 
+Adding to chart: <i> item(prep(prep(de)),25,26,[prep(prep(de)),de]) 
+Adding to chart: <i> item(n(n(note)),26,27,[n(n(note)),note]) 
+Adding to chart: <i> item(adj(adj(scrise)),27,28,[adj(adj(scrise)),scrise]) 
+Adding to chart: <i> item(prep(prep(pe)),28,29,[prep(prep(pe)),pe]) 
+Adding to chart: <i> item(n(n(margine)),29,30,[n(n(margine)),margine]) 
+Adding to chart: <i> item(conj(conj(care)),30,31,[conj(conj(care)),care]) 
+Adding to chart: <i> item(pron(pron(ii)),31,32,[pron(pron(ii)),ii]) 
+Adding to chart: <i> item(v(v(atrag)),32,33,[v(v(atrag)),atrag]) 
+Adding to chart: <i> item(n(n(atentia)),33,34,[n(n(atentia)),atentia]) 
+Adding to chart: <i> item(point(point(.)),34,35,[point(point(.)),.]) 
+Adding to chart: <i> item(pron(pron(unele)),35,36,[pron(pron(unele)),unele]) 
+Adding to chart: <i> item(n(n(pasaje)),36,37,[n(n(pasaje)),pasaje]) 
+Adding to chart: <i> item(pron(pron(ii)),37,38,[pron(pron(ii)),ii]) 
+Adding to chart: <i> item(v(v(par)),38,39,[v(v(par)),par]) 
+Adding to chart: <i> item(adv(adv(greu)),39,40,[adv(adv(greu)),greu]) 
+Adding to chart: <i> item(prep(prep(de)),40,41,[prep(prep(de)),de]) 
+Adding to chart: <i> item(v(v(descifrat)),41,42,[v(v(descifrat)),descifrat]) 
+Adding to chart: <i> item(conj(conj(dar)),42,43,[conj(conj(dar)),dar]) 
+Adding to chart: <i> item(pron(pron(el)),43,44,[pron(pron(el)),el]) 
+Adding to chart: <i> item(v(v(continua)),44,45,[v(v(continua)),continua]) 
+Adding to chart: <i> item(prep(prep(cu)),45,46,[prep(prep(cu)),cu]) 
+Adding to chart: <i> item(n(n(rabdare)),46,47,[n(n(rabdare)),rabdare]) 
+Adding to chart: <i> item(point(point(.)),47,48,[point(point(.)),.]) 
+Adding to chart: <i> item(prep(prep(la)),48,49,[prep(prep(la)),la]) 
+Adding to chart: <i> item(n(n(final)),49,50,[n(n(final)),final]) 
+Adding to chart: <i> item(adv(adv(final)),49,50,[adv(adv(final)),final]) 
+Adding to chart: <i> item(v(v(inchide)),50,51,[v(v(inchide)),inchide]) 
+Adding to chart: <i> item(n(n(cartea)),51,52,[n(n(cartea)),cartea]) 
+Adding to chart: <i> item(conj(conj(si)),52,53,[conj(conj(si)),si]) 
+Adding to chart: <i> item(v(v(ramane)),53,54,[v(v(ramane)),ramane]) 
+Adding to chart: <i> item(adv(adv(ganditor)),54,55,[adv(adv(ganditor)),ganditor]) 
+Adding to chart: <i> item(v(v(admirand)),55,56,[v(v(admirand)),admirand]) 
+Adding to chart: <i> item(n(n(copertile)),56,57,[n(n(copertile)),copertile]) 
+Adding to chart: <i> item(adj(adj(uzate)),57,58,[adj(adj(uzate)),uzate]) 
+Adding to chart: <i> item(conj(conj(si)),58,59,[conj(conj(si)),si]) 
+Adding to chart: <i> item(n(n(paginile)),59,60,[n(n(paginile)),paginile]) 
+Adding to chart: <i> item(adj(adj(ingalbenite)),60,61,[adj(adj(ingalbenite)),ingalbenite]) 
+Adding to chart: <i> item(point(point(.)),61,62,[point(point(.)),.]) 
+
+
+word(1, alex).
+word(2, se).
+word(3, asaza).
+word(4, la).
+word(5, birou).
+word(6, si).
+word(7, deschide).
+word(8, o).
+word(9, carte).
+word(10, veche).
+word(11, '.').
+word(12, citeste).
+word(13, paginile).
+word(14, cu).
+word(15, atentie).
+word(16, incercand).
+word(17, sa).
+word(18, inteleaga).
+word(19, sensul).
+word(20, fiecarui).
+word(21, cuvant).
+word(22, '.').
+word(23, cartea).
+word(24, este).
+word(25, plina).
+word(26, de).
+word(27, note).
+word(28, scrise).
+word(29, pe).
+word(30, margine).
+word(31, care).
+word(32, ii).
+word(33, atrag).
+word(34, atentia).
+word(35, '.').
+word(36, unele).
+word(37, pasaje).
+word(38, ii).
+word(39, par).
+word(40, greu).
+word(41, de).
+word(42, descifrat).
+word(43, dar).
+word(44, el).
+word(45, continua).
+word(46, cu).
+word(47, rabdare).
+word(48, '.').
+word(49, la).
+word(50, final).
+word(51, inchide).
+word(52, cartea).
+word(53, si).
+word(54, ramane).
+word(55, ganditor).
+word(56, admirand).
+word(57, copertile).
+word(58, uzate).
+word(59, si).
+word(60, paginile).
+word(61, ingalbenite).
+word(62, '.').
+
+stored(0, item(n(n(alex)),0,1,[n(n(alex)),alex])).
+stored(1, item(pron(pron(se)),1,2,[pron(pron(se)),se])).
+stored(2, item(v(v(asaza)),2,3,[v(v(asaza)),asaza])).
+stored(3, item(prep(prep(la)),3,4,[prep(prep(la)),la])).
+stored(4, item(n(n(birou)),4,5,[n(n(birou)),birou])).
+stored(5, item(conj(conj(si)),5,6,[conj(conj(si)),si])).
+stored(6, item(v(v(deschide)),6,7,[v(v(deschide)),deschide])).
+stored(7, item(art(art(o)),7,8,[art(art(o)),o])).
+stored(8, item(n(n(carte)),8,9,[n(n(carte)),carte])).
+stored(9, item(adj(adj(veche)),9,10,[adj(adj(veche)),veche])).
+stored(10, item(point(point('.')),10,11,[point(point('.')),'.'])).
+stored(11, item(v(v(citeste)),11,12,[v(v(citeste)),citeste])).
+stored(12, item(n(n(paginile)),12,13,[n(n(paginile)),paginile])).
+stored(13, item(prep(prep(cu)),13,14,[prep(prep(cu)),cu])).
+stored(14, item(n(n(atentie)),14,15,[n(n(atentie)),atentie])).
+stored(15, item(v(v(incercand)),15,16,[v(v(incercand)),incercand])).
+stored(16, item(conj(conj(sa)),16,17,[conj(conj(sa)),sa])).
+stored(17, item(v(v(inteleaga)),17,18,[v(v(inteleaga)),inteleaga])).
+stored(18, item(n(n(sensul)),18,19,[n(n(sensul)),sensul])).
+stored(19, item(pron(pron(fiecarui)),19,20,[pron(pron(fiecarui)),fiecarui])).
+stored(20, item(n(n(cuvant)),20,21,[n(n(cuvant)),cuvant])).
+stored(21, item(point(point('.')),21,22,[point(point('.')),'.'])).
+stored(22, item(n(n(cartea)),22,23,[n(n(cartea)),cartea])).
+stored(23, item(v(v(este)),23,24,[v(v(este)),este])).
+stored(24, item(adj(adj(plina)),24,25,[adj(adj(plina)),plina])).
+stored(25, item(prep(prep(de)),25,26,[prep(prep(de)),de])).
+stored(26, item(n(n(note)),26,27,[n(n(note)),note])).
+stored(27, item(adj(adj(scrise)),27,28,[adj(adj(scrise)),scrise])).
+stored(28, item(prep(prep(pe)),28,29,[prep(prep(pe)),pe])).
+stored(29, item(n(n(margine)),29,30,[n(n(margine)),margine])).
+stored(30, item(conj(conj(care)),30,31,[conj(conj(care)),care])).
+stored(31, item(pron(pron(ii)),31,32,[pron(pron(ii)),ii])).
+stored(32, item(v(v(atrag)),32,33,[v(v(atrag)),atrag])).
+stored(33, item(n(n(atentia)),33,34,[n(n(atentia)),atentia])).
+stored(34, item(point(point('.')),34,35,[point(point('.')),'.'])).
+stored(35, item(pron(pron(unele)),35,36,[pron(pron(unele)),unele])).
+stored(36, item(n(n(pasaje)),36,37,[n(n(pasaje)),pasaje])).
+stored(37, item(pron(pron(ii)),37,38,[pron(pron(ii)),ii])).
+stored(38, item(v(v(par)),38,39,[v(v(par)),par])).
+stored(39, item(adv(adv(greu)),39,40,[adv(adv(greu)),greu])).
+stored(40, item(prep(prep(de)),40,41,[prep(prep(de)),de])).
+stored(41, item(v(v(descifrat)),41,42,[v(v(descifrat)),descifrat])).
+stored(42, item(conj(conj(dar)),42,43,[conj(conj(dar)),dar])).
+stored(43, item(pron(pron(el)),43,44,[pron(pron(el)),el])).
+stored(44, item(v(v(continua)),44,45,[v(v(continua)),continua])).
+stored(45, item(prep(prep(cu)),45,46,[prep(prep(cu)),cu])).
+stored(46, item(n(n(rabdare)),46,47,[n(n(rabdare)),rabdare])).
+stored(47, item(point(point('.')),47,48,[point(point('.')),'.'])).
+stored(48, item(prep(prep(la)),48,49,[prep(prep(la)),la])).
+stored(49, item(n(n(final)),49,50,[n(n(final)),final])).
+stored(50, item(adv(adv(final)),49,50,[adv(adv(final)),final])).
+stored(51, item(v(v(inchide)),50,51,[v(v(inchide)),inchide])).
+stored(52, item(n(n(cartea)),51,52,[n(n(cartea)),cartea])).
+stored(53, item(conj(conj(si)),52,53,[conj(conj(si)),si])).
+stored(54, item(v(v(ramane)),53,54,[v(v(ramane)),ramane])).
+stored(55, item(adv(adv(ganditor)),54,55,[adv(adv(ganditor)),ganditor])).
+stored(56, item(v(v(admirand)),55,56,[v(v(admirand)),admirand])).
+stored(57, item(n(n(copertile)),56,57,[n(n(copertile)),copertile])).
+stored(58, item(adj(adj(uzate)),57,58,[adj(adj(uzate)),uzate])).
+stored(59, item(conj(conj(si)),58,59,[conj(conj(si)),si])).
+stored(60, item(n(n(paginile)),59,60,[n(n(paginile)),paginile])).
+stored(61, item(adj(adj(ingalbenite)),60,61,[adj(adj(ingalbenite)),ingalbenite])).
+stored(62, item(point(point('.')),61,62,[point(point('.')),'.'])).
+
+key_index(i, 0).
+key_index(i, 1).
+key_index(i, 2).
+key_index(i, 3).
+key_index(i, 4).
+key_index(i, 5).
+key_index(i, 6).
+key_index(i, 7).
+key_index(i, 8).
+key_index(i, 9).
+key_index(i, 10).
+key_index(i, 11).
+key_index(i, 12).
+key_index(i, 13).
+key_index(i, 14).
+key_index(i, 15).
+key_index(i, 16).
+key_index(i, 17).
+key_index(i, 18).
+key_index(i, 19).
+key_index(i, 20).
+key_index(i, 21).
+key_index(i, 22).
+key_index(i, 23).
+key_index(i, 24).
+key_index(i, 25).
+key_index(i, 26).
+key_index(i, 27).
+key_index(i, 28).
+key_index(i, 29).
+key_index(i, 30).
+key_index(i, 31).
+key_index(i, 32).
+key_index(i, 33).
+key_index(i, 34).
+key_index(i, 35).
+key_index(i, 36).
+key_index(i, 37).
+key_index(i, 38).
+key_index(i, 39).
+key_index(i, 40).
+key_index(i, 41).
+key_index(i, 42).
+key_index(i, 43).
+key_index(i, 44).
+key_index(i, 45).
+key_index(i, 46).
+key_index(i, 47).
+key_index(i, 48).
+key_index(i, 49).
+key_index(i, 50).
+key_index(i, 51).
+key_index(i, 52).
+key_index(i, 53).
+key_index(i, 54).
+key_index(i, 55).
+key_index(i, 56).
+key_index(i, 57).
+key_index(i, 58).
+key_index(i, 59).
+key_index(i, 60).
+key_index(i, 61).
+key_index(i, 62).
+
+
+
+all solutions in 0.011 seconds.
